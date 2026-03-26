@@ -31,3 +31,18 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+
+// const spaceMono = Space_Mono({
+//   weight: ['400', '700'],
+//   subsets: ['latin'],
+//   variable: '--font-mono',
+//   display: 'swap',
+// })
+
+// const syne = Syne({
+//   subsets: ['latin'],
+//   variable: '--font-display',
+//   display: 'swap',
+// })
